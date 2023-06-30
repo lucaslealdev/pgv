@@ -2,7 +2,7 @@
 
 * [Bem-vindo!](README.md)
 
-## ✏ Fundamentos
+## ⭐ Fundamentos
 
 * [💻 O que é programação?](fundamentos/o-que-e-programacao.md)
 * [👶 Operações Básicas](fundamentos/operacoes-basicas/README.md)
