@@ -1,22 +1,7 @@
----
-description: >-
-  Aprender operações básicas no JavaScript abre caminho para a lógica de
-  programação e o pensamento computacional.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
+# Bem-vindo!
 
-# Operações básicas
+Essa trilha de aprendizado é uma organização da ordem em que entendemos ser a melhor forma de aprender a programar com JavaScript, através de conteúdo criado, conteúdo da internet curado, e exercícios práticos autorais.
 
-Programação é, basicamente, uma série de comandos (que você não precisa decorar) que, escolhidos e ordenados adequadamente fazem algo para você automaticamente. Esse "algo" pode ser dar like automaticamente em posts de rede social, enviar mensagem de bom dia no grupo da família, um jogo ou um sistema que controla uma loja online.
+Linguagens de programação são, resumidamente, a forma como conversamos com o PC para ele saber o que fazer. Precisamos ser muito literais e precisos nas instruções que damos a ele, e as linguagens de programação são a forma mais simples de dar essas instruções.
 
-Para esse início separamos conteúdos que ao experimentados causam o aprendizado na prática, embora precisem de leitura prévia e até mesmo consultas futuras. Você precisará brincar com os comandos na prática e nós ofereceremos essas oportunidades de testar os códigos com profundidade gradual.
+O JavaScript é uma das linguagens de programação mais importantes na atualidade, sendo utilizada em vários contextos diferentes e permitindo um aprendizado equilibrado entre velocidade e complexidade.

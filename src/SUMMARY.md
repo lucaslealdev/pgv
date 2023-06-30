@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Operações básicas](README.md)
-  * [Olá, mundo!](operacoes-basicas/ola-mundo.md)
+* [Bem-vindo!](README.md)
+
+## ✏ Fundamentos
+
+* [O que é programação?](fundamentos/o-que-e-programacao.md)
+* [👶 Operações Básicas](fundamentos/operacoes-basicas/README.md)
+  * [Olá, mundo!](fundamentos/operacoes-basicas/ola-mundo.md)
