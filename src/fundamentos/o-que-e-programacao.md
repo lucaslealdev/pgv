@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# O que é programação?
+# 💻 O que é programação?
 
 Programação é, basicamente, escrever uma série de comandos (que você não precisa decorar) que, escolhidos e ordenados adequadamente, fazem algo para você automaticamente. Esse "algo" pode ser _dar like em posts de rede social_, _enviar mensagem de bom dia no grupo da família_, ou até mesmo um _jogo_ ou um _sistema que controla uma loja online_.
 
