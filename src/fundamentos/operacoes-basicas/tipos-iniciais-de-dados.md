@@ -1,11 +1,15 @@
 ---
 description: >-
-  Existem  tipos de dado em JavaScript, aqui trataremos de apenas dois para
-  iniciar nosso entendimento de como manipular os dados.
+  Existem alguns tipos de dado em JavaScript, e aqui trataremos de apenas dois
+  para iniciar seu entendimento de como manipular esses dados.
 ---
 
 # 🔠 Tipos iniciais de dados
 
-O que chamamos de _Estrutura de dados_, em uma faculdade é uma matéria inteira, dada a profundidade do tema. Essas estruturas são os tipos desses dados, que entre vários outros podem ser textos e números. Caso você queira, e nesse momento não é necessário, você pode estudar sobre os tipos de dados na [documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data\_structures) do JavaScript.
+{% hint style="success" %}
+**Vantagem**: saber utilizar esses tipos dados permite que o seu programa seja capaz de se comunicar e fazer operações matemáticas.
 
-**Em progresso**
+**Racional:** uma vez que souber utilizar esses dados, abriremos seu horizonte para novas possibilidades de organização desses dados.
+{% endhint %}
+
+_Estrutura de dados_, em uma faculdade é uma matéria inteira, dada a profundidade do tema. Essas estruturas são os tipos desses dados, e você vai começar aprendendo sobre textos e números.
