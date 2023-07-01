@@ -8,7 +8,7 @@ O NaN (_not a number_/não é número) é a representação do JavaScript do que
 
 Com o dado do tipo _number_ você pode utilizar os operadores matemáticos para fazer contas. Os operadores básicos são `+`, `-`, `*` e `/`, respectivamente soma, subtração, multiplicação e divisão.
 
-Importante notar que, como o operador de soma `+` é o mesmo operador utilizado para concatenar _strings_, a ordem de como você utiliza _strings_ e números vai mudar como o JS (_JavaScript_) entende o que você quer que aconteça entre concatenação ou soma.
+Importante notar que como o operador de soma `+` é o mesmo operador utilizado para concatenar _strings_, a ordem de como você utiliza _strings_ e números vai determinar como o JS (_JavaScript_) entende o que você quer que aconteça, se é concatenação ou soma.
 
 ```javascript
 console.success(13 + 3 + " é o resultado da soma de 13 com 3");

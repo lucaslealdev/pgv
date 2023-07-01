@@ -8,7 +8,7 @@ description: >-
 # 🌎 Olá, mundo! (console.log)
 
 {% hint style="success" %}
-**Racional**: a vantagem de você saber como exibir informações de registro é poder analisar como o código está funcionando; e nesse momento utilizaremos isso para realizar operações básicas de modo que possamos entender como o JavaScript opera, nessa e nas próximas lições.
+**Vantagem**: a vantagem de você saber como exibir informações de registro é poder analisar como o código está funcionando; e nesse momento você vai utilizar isso para realizar operações básicas e entender como o JavaScript opera.
 {% endhint %}
 
 Um método muito utilizado e que serve justamente para exibir um dado ou informação é o `console.log`. Seu significado é: _console_ é onde vamos mostrar a informação e _log_ é do inglês _registro,_ já que o comando serve para fazer um registro temporário de informações na tela. Veja um exemplo de uso:
@@ -28,6 +28,6 @@ Siga [esse link](https://coolfee.github.io/#\{%22autorun%22:%221%22,%22code%22:%
 <img src="../../.gitbook/assets/run.png" alt="" data-size="original">
 {% endhint %}
 
-O _log_ é uma forma rudimentar de conversar com o usuário, e abre um mundo enorme de coisas que você pode experimentar. Como você faria por exemplo para mostrar números em vez de texto? Podemos colocar números dentro das aspas? Que diferença faz dentro e fora das aspas? Você vai ver isso nas próximas lições.
+O _log_ é uma forma rudimentar de conversar com o usuário, e abre um mundo enorme de coisas que você pode experimentar. Como você faria por exemplo para mostrar números em vez de texto? Pode colocar números dentro das aspas? Que diferença faz dentro e fora das aspas? Você vai ver isso nas próximas lições.
 
 [^1]: Importante: veja que as aspas fazem parte da forma de escrever um texto que não é um comando, mas um texto literalmente dizendo. Por isso, as aspas não aparecem na tela.

@@ -1,5 +1,9 @@
 # 🔤 Tipo texto (string)
 
+{% hint style="success" %}
+**Vantagem:** saber manipular texto é imprescindível para programação pois é através do texto que você vai se comunicar com o usuário e vice-versa.
+{% endhint %}
+
 A _string,_ do inglês _linha_ é um tipo de dado que armazena texto, tendo esse nome por se tratar de uma sequência de caracteres. Por exemplo, `"Aprender"` é uma _string_ de comprimento 8 (pois tem oito letras), cujos caracteres estão ligados por uma linha imaginária (daí o nome _string_) e são respectivamente A-p-r-e-n-d-e-r.
 
 Repare que, no JavaScript, a _string_ vem sempre entre aspas `""` ou apóstrofos `''` e não há diferença prática entre aspas e apóstrofos na formação de _strings._ No entanto é comum que visando qualidade os times de programadores combinem um padrão a ser seguido de utilizar um em detrimento do outro.
