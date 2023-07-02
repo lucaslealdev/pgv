@@ -10,3 +10,4 @@
   * [🔠 Tipos iniciais de dados](fundamentos/operacoes-basicas/tipos-iniciais-de-dados.md)
   * [🔤 Tipo texto (string)](fundamentos/operacoes-basicas/tipo-texto-string.md)
   * [5 Tipo número (number)](fundamentos/operacoes-basicas/tipo-numero-number.md)
+  * [🧩 Variáveis](fundamentos/operacoes-basicas/variaveis.md)
