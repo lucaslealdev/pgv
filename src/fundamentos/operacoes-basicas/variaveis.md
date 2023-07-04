@@ -31,7 +31,9 @@ console.log("Mudamos o valor para " + nome + "! Isso é bem legal!");
 Siga [este link](https://coolfee.github.io/#\{%22autorun%22:%221%22,%22code%22:%22let%20nome%20=%20\\%22Lucas\\%22;\nconsole.log\(\\%22Ol%C3%A1%20\\%22%20+%20nome%20+%20\\%22!%20Tudo%20bem?\\%22\);\nnome%20=%20\\%22Vitor\\%22;\nconsole.log\(\\%22Mudamos%20o%20valor%20para%20\\%22%20+%20nome%20+%20\\%22!%20Isso%20%C3%A9%20bem%20legal!\\%22\);%22,%22tests%22:%22;%22}) para acessar o código acima_._
 {% endhint %}
 
-Como o código é executado linha por linha, é importante notar que se você tentar utilizar uma variável antes de ela existir, isso causa um erro. Esse exemplo abaixo é uma forma de como você não pode utilizar variáveis:
+### Erros comuns
+
+Como o código é executado linha por linha, é importante notar que se você tentar utilizar uma variável antes de ela existir, isso causa um erro. Esse exemplo abaixo é uma forma de como você **não pode** utilizar variáveis:
 
 {% hint style="danger" %}
 ```javascript
@@ -52,5 +54,9 @@ console.log(nome);
 
 Nesse caso o erro exibido será _<mark style="color:red;">`nome is not defined`</mark>_. De fato, nome realmente é uma variável que não foi definida.\
 O interpretador[^1] do JavaScript tenta sempre te mostrar erros personalizados da forma mais nítida possível, para que você consiga deduzir o que fez de errado. A limitação das linguagens de programação é não saber o que você está tentando fazer (já que elas em geral não contam com inteligência artificial), e por isso as mensagens não tem como serem mais nítidas ainda.
+
+{% hint style="warning" %}
+Importante: você consegue criar variáveis sem a utilização do `let`, colocando apenas `variavel = 3;` . Porém você não deveria fazer isso, pois existem diferenças práticas no resultado, que você aprenderá nos capítulos mais avançados deste guia. Por agora, podemos resumir que é uma boa prática de programação utilizar o `let` na hora de criar a variável.
+{% endhint %}
 
 [^1]: Interpretador é como chamamos o software que executa, linha por linha, o código que escrevemos.
