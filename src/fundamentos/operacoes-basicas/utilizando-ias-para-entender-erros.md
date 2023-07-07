@@ -8,7 +8,7 @@
 
 O chatGPT é uma inteligência artificial baseada em conversa, ou seja, você pode perguntar o que quiser e a IA vai te responder. Isso inclui perguntas sobre programação!
 
-Se você perguntar sobre o erro apresentado anteriormente sobre variável não inicializada, veja o que ela responde:
+Se você perguntar sobre um erro de variável não inicializada, veja o que ela responde:
 
 > O código abaixo tem um erro, consegue me ajudar a resolver?\
 > console.log(nome);\

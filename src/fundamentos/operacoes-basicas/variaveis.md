@@ -56,7 +56,7 @@ Nesse caso o erro exibido será _<mark style="color:red;">`nome is not defined`<
 O interpretador[^1] do JavaScript tenta sempre te mostrar erros personalizados da forma mais nítida possível, para que você consiga deduzir o que fez de errado. A limitação das linguagens de programação é não saber o que você está tentando fazer (já que elas em geral não contam com inteligência artificial), e por isso as mensagens não tem como serem mais nítidas ainda.
 
 {% hint style="warning" %}
-Importante: você consegue criar variáveis sem a utilização do `let`, colocando apenas `variavel = 3;` . Porém você não deveria fazer isso, pois existem diferenças práticas no resultado, que você aprenderá nos capítulos mais avançados deste guia. Por agora, podemos resumir que é uma boa prática de programação utilizar o `let` na hora de criar a variável.
+Importante: você consegue criar variáveis sem a utilização do `let`, colocando apenas <mark style="color:orange;">`variavel = 3;`</mark> ou usando "var" em vez do let, <mark style="color:orange;">`var variavel = 3;`</mark>. Porém você não deveria fazer isso, pois existem diferenças práticas no resultado, que você aprenderá nos capítulos mais avançados deste guia. Por agora, podemos resumir que é uma boa prática de programação utilizar o `let` na hora de criar a variável.
 {% endhint %}
 
 [^1]: Interpretador é como chamamos o software que executa, linha por linha, o código que escrevemos.
