@@ -16,4 +16,4 @@
 * [🪄 Lógica computacional](fundamentos/logica-computacional/README.md)
   * [🔧 Criando funções](fundamentos/logica-computacional/criando-funcoes.md)
   * [😎 Indentação](fundamentos/logica-computacional/indentacao.md)
-  * [Funções com retorno](fundamentos/logica-computacional/funcoes-com-retorno.md)
+  * [↪ Funções com retorno](fundamentos/logica-computacional/funcoes-com-retorno.md)
