@@ -4,9 +4,9 @@ Anteriormente ao aprender a criar uma função, você deve ter reparado que o no
 
 {% code lineNumbers="true" %}
 ```javascript
-let funcaozinha = () => {
+const funcaozinha = () => {
     console.log('Aqui foi dado um espacinho na linha');
-}
+};
 ```
 {% endcode %}
 

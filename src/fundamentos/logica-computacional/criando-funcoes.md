@@ -17,29 +17,26 @@ O nome _função_ fala exatamente sobre isso! A função deve ter apenas um úni
 No JavaScript, para criar funções é preciso uma organização específica de comandos, que é assim:
 
 ```javascript
-let nomeDaFuncao = () => {
+const nomeDaFuncao = () => {
     //o código da função vem aqui
 };
 ```
 
-Isso é a **sintaxe** de como definir funções. Ou seja, você cria a variável com o nome que deseja para a função, e no valor coloca a função em si. A função precisa começar com parênteses, ter uma setinha (_arrow_) e depois as chaves `{}`. Dentro dessas chaves, você coloca o código que a função vai executar.
+Isso é a **sintaxe** de como definir funções. Ou seja, você cria a constante com o nome que deseja para a função, e no valor coloca a função em si. A função precisa começar com parênteses, ter uma setinha (_arrow_) e depois as chaves `{}`. Dentro dessas chaves, você coloca o código que a função vai executar. Utilizamos constantes pois seria muito estranho uma função ser reatribuída, causando confusão no entendimento do código.
 
 Sempre que a função do código abaixo for chamada, ela exibirá a mensagem `"Bom dia!"`. Isso pode ser testado chamando a função algumas vezes. Para chamar uma função, você chama pelo seu nome seguido de parênteses e você já viu isso antes! O `console.log` utilizado várias vezes anteriormente é uma função que já vem incluída no JavaScript.
 
-{% code lineNumbers="true" %}
-```javascript
-let bomDia = () => {
-    console.log("Bom dia!");
+<pre class="language-javascript" data-line-numbers><code class="lang-javascript"><strong>const bomDia = () => {
+</strong>    console.log("Bom dia!");
 };
 console.log("Hoje é um bom dia!");
 bomDia();
 console.log("Que legal!");
 bomDia();
-```
-{% endcode %}
+</code></pre>
 
 {% hint style="info" %}
-Siga [este link](https://coolfee.github.io/#\{%22autorun%22:%221%22,%22code%22:%22let%20bomDia%20=%20\(\)%20=%3E%20{\n%20%20%20%20console.log\(\\%22Bom%20dia!\\%22\);\n};\nconsole.log\(\\%22Hoje%20%C3%A9%20um%20bom%20dia!\\%22\);\nbomDia\(\);\nconsole.log\(\\%22Que%20legal!\\%22\);\nbomDia\(\);%22,%22tests%22:%22;%22}) para acessar o código acima_._
+Siga [este link](https://esta.la/2mL) para acessar o código acima_._
 {% endhint %}
 
 Observe que a ordem do programa agora não é **exatamente** linha-após-linha. Mesmo o código que exibe a mensagem de bom dia estando na linha 2, ele só executa quando chamamos a função na linha 5, e depois continua normalmente indo direto para a linha 6.
