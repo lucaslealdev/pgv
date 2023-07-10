@@ -3,6 +3,9 @@ description: >-
   Olá mundo é uma frase muito conhecida entre desenvolvedores por ser um padrão
   da primeira coisa que se faz em qualquer linguagem de programação: pedir para
   o computador escrever algo na tela.
+cover: >-
+  https://images.unsplash.com/photo-1500576992153-0271099def59?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxoZWxsb3xlbnwwfHx8fDE2ODkwMDMwOTd8MA&ixlib=rb-4.0.3&q=85
+coverY: 26
 ---
 
 # 🌎 Olá, mundo! (console.log)

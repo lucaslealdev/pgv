@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1550376026-7375b92bb318?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxvcmdhbml6YXRpb258ZW58MHx8fHwxNjg5MDAyODc2fDA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # 😎 Indentação
 
 Anteriormente ao aprender a criar uma função, você deve ter reparado que o nosso exemplo incluía um tipo de recuo do texto; um espaço entre o começo da linha e o código, quando dentro da função. Algo parecido com isso:
@@ -5,7 +11,7 @@ Anteriormente ao aprender a criar uma função, você deve ter reparado que o no
 {% code lineNumbers="true" %}
 ```javascript
 const funcaozinha = () => {
-    console.log('Aqui foi dado um espacinho na linha');
+  console.log('Aqui foi dado um espacinho no começo da linha');
 };
 ```
 {% endcode %}

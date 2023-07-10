@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1560265036-021b3652b490?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxiZW0lMjB2aW5kb3xlbnwwfHx8fDE2ODkwMDMyMDJ8MA&ixlib=rb-4.0.3&q=85
+coverY: 207
+---
+
 # Bem-vindo!
 
 Essa trilha de aprendizado é uma organização da ordem em que entendemos ser a melhor forma de aprender a programar com JavaScript, através de conteúdo criado, conteúdo da internet curado, e exercícios práticos autorais.

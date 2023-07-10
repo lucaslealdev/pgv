@@ -3,6 +3,9 @@ description: >-
   Na matemática temos o X e o Y, que também são variáveis. A boa notícia é que
   na programação você que define os valores das variáveis, em vez de ter que
   descobrir 😉
+cover: >-
+  https://images.unsplash.com/photo-1527931372109-865f33dff725?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHx2YXJpYWJsZXN8ZW58MHx8fHwxNjg5MDAzMDMyfDA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # 🧩 Variáveis
@@ -13,7 +16,7 @@ description: >-
 
 Variáveis são dados **com nome**. Esse nome é você que inventa e o valor (algum dado) você que determina; esse valor é então guardado na memória temporariamente, para que o seu programa possa utilizar dessa variável até que a execução finalize.
 
-No JS uma variável pode ser definida com o comando `let`. A forma de utilizar é `let nomeDaVariavel`. Observe que os nomes de variável são limitados nos caracteres que podem ter, não podendo ter acentos, caracteres especiais (isso inclui `ç`); e o primeiro caractere não pode ser um número.
+No JS uma variável pode ser definida com o comando `let`. A forma de utilizar é `let nomeDaVariavel`. Observe que os nomes de variável são limitados nos caracteres que podem ter, **não podendo ter acentos ou caracteres especiais (isso inclui `ç`)**; e o primeiro caractere não pode ser um número.
 
 Você também pode criar uma variável já atribuindo um dado a ela, por exemplo com o código `let nome = "Lucas"` .\
 Repare que há uma distinção na hora de escrever o que é uma _string_ utilizando aspas, e o que é a variável, que não recebe aspas. Isso permanece sendo uma regra quando você vai utilizar a variável dali em diante, não apenas na hora de criá-la.

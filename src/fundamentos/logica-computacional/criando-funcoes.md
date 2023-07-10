@@ -2,6 +2,9 @@
 description: >-
   Quase todas linguagens de programação possuem o recurso de criar funções, que
   são trechos de código organizados com começo, meio e fim.
+cover: >-
+  https://images.unsplash.com/photo-1613178594694-5f96ae9b5bb0?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxmdW5jdGlvbnxlbnwwfHx8fDE2ODkwMDI5MTZ8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # 🔧 Criando funções

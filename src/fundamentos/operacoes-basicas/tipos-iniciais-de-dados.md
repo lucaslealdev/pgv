@@ -2,6 +2,9 @@
 description: >-
   Existem alguns tipos de dado em JavaScript, e aqui trataremos de apenas dois
   para iniciar seu entendimento de como manipular esses dados.
+cover: >-
+  https://images.unsplash.com/photo-1542903660-eedba2cda473?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxkYXRhfGVufDB8fHx8MTY4ODkyMjI4MXww&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # 🔠 Tipos iniciais de dados

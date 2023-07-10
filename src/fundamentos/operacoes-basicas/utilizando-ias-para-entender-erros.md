@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1620712943543-bcc4688e7485?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwwfHx8fDE2ODkwMDI5NzR8MA&ixlib=rb-4.0.3&q=85
+coverY: 351
+---
+
 # 🧠 Utilizando IAs para entender erros
 
 

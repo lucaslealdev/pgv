@@ -18,5 +18,6 @@
   * [🔧 Criando funções](fundamentos/logica-computacional/criando-funcoes.md)
   * [😎 Indentação](fundamentos/logica-computacional/indentacao.md)
   * [🔳 Templates de texto](fundamentos/logica-computacional/templates-de-texto.md)
-  * [🔳 Funções com parâmetros](fundamentos/logica-computacional/funcoes-com-parametros.md)
+  * [🚜 Funções com parâmetros](fundamentos/logica-computacional/funcoes-com-parametros.md)
   * [↪ Funções com retorno](fundamentos/logica-computacional/funcoes-com-retorno.md)
+  * [🤔 Estrutura condicional if](fundamentos/logica-computacional/estrutura-condicional-if.md)

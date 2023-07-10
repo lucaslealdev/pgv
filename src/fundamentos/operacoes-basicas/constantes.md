@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1562524190-86ceb0cfa4ce?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxjb25zdGFudHxlbnwwfHx8fDE2ODkwMDI5NTF8MA&ixlib=rb-4.0.3&q=85
+coverY: -257
+---
+
 # 🏛 Constantes
 
 {% hint style="success" %}

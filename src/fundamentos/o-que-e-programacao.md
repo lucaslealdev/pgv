@@ -1,5 +1,11 @@
 ---
+cover: >-
+  https://images.unsplash.com/photo-1521185496955-15097b20c5fe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxwcm9ncmFtbWluZ3xlbnwwfHx8fDE2ODkwMDMxNDd8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

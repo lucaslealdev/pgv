@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1543769657-fcf1236421bc?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHx0ZXh0fGVufDB8fHx8MTY4OTAwMjg1OHww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # 🔤 Tipo texto (string)
 
 {% hint style="success" %}

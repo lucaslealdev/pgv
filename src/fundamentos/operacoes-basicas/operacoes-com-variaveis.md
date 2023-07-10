@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxtYXRofGVufDB8fHx8MTY4OTAwMzAyMnww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # 🧪 Operações com variáveis
 
 **Vantagem:** como as variáveis podem ser reutilizadas, é muito conveniente para reaproveitamento de código e repetição de operações.
