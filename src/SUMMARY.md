@@ -20,4 +20,6 @@
   * [🔳 Templates de texto](fundamentos/logica-computacional/templates-de-texto.md)
   * [🚜 Funções com parâmetros](fundamentos/logica-computacional/funcoes-com-parametros.md)
   * [↪ Funções com retorno](fundamentos/logica-computacional/funcoes-com-retorno.md)
+  * [↪ Retorno implícito](fundamentos/logica-computacional/retorno-implicito.md)
   * [🤔 Estrutura condicional if](fundamentos/logica-computacional/estrutura-condicional-if.md)
+  * [🙆♀ Condições e tipo lógico (boolean)](fundamentos/logica-computacional/condicoes-e-tipo-logico-boolean.md)

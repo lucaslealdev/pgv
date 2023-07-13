@@ -74,3 +74,5 @@ Agora você tem a sua segunda missão, e será de criar uma função que retorne
 4. Nota: como o exercício solicita apenas a função e o seu retorno, não é preciso imprimir nada no console.
 
 Clique [aqui](https://esta.la/W1M) para abrir o editor de código e fazer esse exercício! Ao clicar em `Run` o seu código será avaliado. Caso exista algum erro de código, o erro será exibido em vez do resultado do teste.
+
+Para ver o gabarito, siga [este link](https://esta.la/QQK).
