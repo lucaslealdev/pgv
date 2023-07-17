@@ -14,7 +14,9 @@ A _string,_ do inglês _linha_ é um tipo de dado que armazena texto, tendo esse
 
 Repare que, no JavaScript, a _string_ vem sempre entre aspas `""` ou apóstrofos `''` e não há diferença prática entre aspas e apóstrofos na formação de _strings._ No entanto é comum que visando qualidade os times de programadores combinem um padrão a ser seguido de utilizar um em detrimento do outro.
 
-As _strings_ podem ser **concatenadas**, o que significa colar umas às outras em sequência, formando uma nova _string_ com duas ou mais partes. Isso vai ser muito útil conforme você precisar juntar dados inseridos pelo usuário e dados que são do sistema. Uma mensagem de bem-vindo que inclua o nome do usuário é um exemplo de concatenação.
+As _strings_ podem ser **concatenadas**, o que significa colar umas às outras em sequência, formando uma nova _string_ com duas ou mais partes. Para concatenar _strings_ utilizamos o caractere `+`.
+
+A concatenação vai ser muito útil conforme você precisar juntar dados inseridos pelo usuário e dados que são do sistema. Uma mensagem de bem-vindo que inclua o nome do usuário é um exemplo de concatenação.
 
 ```javascript
 console.log("Essa é uma string criada com aspas");
