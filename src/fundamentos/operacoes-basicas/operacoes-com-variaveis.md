@@ -46,23 +46,3 @@ console.log("Lucas percorreria 1745km em " + tempo1745 + "h");
 {% hint style="info" %}
 Siga [este link](https://esta.la/765) para acessar o código acima_._
 {% endhint %}
-
-## Hora da prática!
-
-Agora você tem a sua primeira missão, e será de criar variáveis! Nesse exercício faremos cálculos sobre o tamanho de um círculo. O comprimento de um círculo é calculado através da fórmula <mark style="color:orange;">`2 * pi * raio`</mark>.
-
-1. Crie uma variável chamada exatamente `pi` que recebe o valor `3.14` ;
-2. Crie uma variável chamada exatamente `polegadaParaCm` com o valor numérico `2.54` que será utilizada para converter polegadas para cm através da multiplicação desse valor;
-3. Crie uma variável chamada exatamente `diametroDaRoda` com o valor numérico `24`; Esse valor está ainda em polegadas.
-4. Crie uma variável chamada `raio`, que vai receber `diametroDaRoda / 2`;
-5. Crie uma variável chamada `comprimento`, que vai receber `2 * pi * raio * polegadaParaCm`. Essa é a fórmula para calcular o cumprimento do círculo e depois convertê-lo para centímetros.
-
-Clique [aqui](https://esta.la/jMV) para abrir o editor de código e fazer esse exercício! Ao clicar em `Run` o seu código será avaliado. Caso exista algum erro de código, o erro será exibido em vez do resultado do teste. Ao fim dessa lição você encontra o gabarito.
-
-Veja abaixo como os resultados do teste se apresentam:
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Exemplo de teste aprovado</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Exemplo de teste reprovado</p></figcaption></figure>
-
-Clique [aqui](https://esta.la/D49) para ver o **gabarito** desse exercício.

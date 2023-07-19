@@ -64,15 +64,4 @@ Observe que com o retorno você pode **usar** o resultado do que a função fez,
 
 É importante notar também a diferença do `return` e do `console.log`, que não são a mesma coisa e não faz sentido misturá-los na mesma linha. O `return` permite sair da função com o dado que vem adiante, enquanto que o `console.log` serve pra mostrar dados no console.
 
-## Hora da prática!
-
-Agora você tem a sua segunda missão, e será de criar uma função que retorne a área de um retângulo! A área de um retângulo é calculada através da fórmula <mark style="color:orange;">`base * altura`</mark>.
-
-1. Crie uma função chamada exatamente `areaDoRetangulo` ;
-2. Essa função deve receber dois parâmetros, `base` e `altura`.
-3. Essa função deve **retornar** o resultado da multiplicação entre `base` e `altura`.
-4. Nota: como o exercício solicita apenas a função e o seu retorno, não é preciso imprimir nada no console.
-
-Clique [aqui](https://esta.la/W1M) para abrir o editor de código e fazer esse exercício! Ao clicar em `Run` o seu código será avaliado. Caso exista algum erro de código, o erro será exibido em vez do resultado do teste.
-
-Para ver o gabarito, siga [este link](https://esta.la/QQK).
+Agora, vamos para o primeiro exercício da seção!
