@@ -25,3 +25,4 @@
   * [↪ Retorno implícito](fundamentos/logica-computacional/retorno-implicito.md)
   * [🤔 Estrutura condicional if](fundamentos/logica-computacional/estrutura-condicional-if.md)
   * [🙆♀ Condições e tipo lógico (boolean)](fundamentos/logica-computacional/condicoes-e-tipo-logico-boolean.md)
+  * [✅ Exercício 2-2](fundamentos/logica-computacional/exercicio-2-2.md)
