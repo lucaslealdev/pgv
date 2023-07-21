@@ -26,7 +26,7 @@ imc('João', 75, 1.71); //console: O IMC de João é 25.65 kg/m2.
 
 {% hint style="info" %}
 Siga [este link](https://esta.la/PpV) para ver o código acima executando.\
-Nota: Este código utiliza a função `toFixed()` ([documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global\_Objects/Number/toFixed)) que é utilizada na sintaxe `algumNumero.toFixed(casasDecimais)` para reduzir o número de casas decimais, já que comumente a divisão gera um número maior de casas devido à precisão de números reais que o JavaScript oferece. [Aqui](https://web.archive.org/web/https://pt.stackoverflow.com/questions/14728/realiza%C3%A7%C3%A3o-de-contas-de-ponto-flutuante-em-javascript-com-precis%C3%A3o-absoluta/14781) no stackoverflow há uma explicação matemática detalhada do racional por trás disso.
+Nota: Este código utiliza a função `toFixed()` ([documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global\_Objects/Number/toFixed)) que é utilizada na sintaxe `algumNumero.toFixed(casasDecimais)` para reduzir o número de casas decimais, já que comumente a divisão gera um número maior de casas devido à precisão de números reais que o JavaScript oferece. [Aqui](https://web.archive.org/web/https://pt.stackoverflow.com/questions/14728/realiza%C3%A7%C3%A3o-de-contas-de-ponto-flutuante-em-javascript-com-precis%C3%A3o-absoluta/14781) no stackoverflow há uma explicação matemática detalhada do racional por trás disso, mas não é necessário saber disso com detalhe.
 {% endhint %}
 
 Receber parâmetros em funções é incrível, pois permite reutilizar essa função muito melhor, já que os dados não são mais fixos dentro dela.

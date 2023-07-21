@@ -33,6 +33,6 @@ Agora você tem a sua primeira missão da trilha, e será de criar variáveis! N
 5. Crie a variável `comprimento`, que vai receber `2 * pi * raio * polegadaParaCm`.\
    Essa é a fórmula para calcular o comprimento do círculo e depois convertê-lo para centímetros.
 
-Clique [aqui](https://esta.la/Mj7) para abrir o editor de código e fazer esse exercício! Ao clicar em `Run` o seu código será avaliado. Caso exista algum erro de código, o erro será exibido em vez do resultado do teste.
+Clique [aqui](https://esta.la/jMV) para abrir o editor de código e fazer esse exercício! Ao clicar em `Run` o seu código será avaliado. Caso exista algum erro de código, o erro será exibido em vez do resultado do teste.
 
-Clique [aqui](https://esta.la/V13) para ver o **gabarito** desse exercício.
+Clique [aqui](https://esta.la/D49) para ver o **gabarito** desse exercício.

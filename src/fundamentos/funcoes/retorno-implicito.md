@@ -28,4 +28,4 @@ const areaDoRetangulo2 = (b, a) => b * a;
 
 Observe que, caso a função tivesse mais de uma linha, não daria para utilizar o retorno implícito. Então os casos em que é possível fazer o retorno implícito são os casos em que a função pode ser escrita usando uma linha apenas dentro do [corpo da função](#user-content-fn-1)[^1].
 
-[^1]: O corpo da função é formado pelas linhas que estão dentro das chaves.
+[^1]: O corpo da função é formado pelas linhas que estão dentro das chaves { }.

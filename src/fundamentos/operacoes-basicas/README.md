@@ -10,6 +10,8 @@ coverY: 294
 **Racional**: para você aprender JavaScript na prática, é preciso primeiro que entenda as operações fundamentais da linguagem.
 {% endhint %}
 
+Sinta-se à vontade nessa seção de **Operações Básicas**!
+
 Daqui em diante, esse guia utiliza as seguintes definições:
 
 * **Dado**: aquilo que o computador acessa e manipula. São textos, números e os conjuntos desses dados. Por exemplo em uma operação de soma, os dois números a serem somados são dados.

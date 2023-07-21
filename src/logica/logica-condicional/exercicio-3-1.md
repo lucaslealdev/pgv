@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# ✅ Exercício 2-2
+# ✅ Exercício 3-1
 
 {% hint style="warning" %}
 Se você não fizer os exercícios, será impossível aprender JavaScript.
@@ -26,6 +26,6 @@ O resto de uma divisão exata é `0`.
 5. Se esse número for divisível por 5 (mas não por 3), retorna uma _string_ `"Buzz"`;
 6. Se esse número não for divisível 3 e 5, retorna uma _string_ `"Error"`.
 
-Clique [aqui](https://esta.la/W1M) para abrir o editor de código e fazer esse exercício! Ao clicar em `Run` o seu código será avaliado. Caso exista algum erro de código, o erro será exibido em vez do resultado do teste.
+Clique [aqui](https://esta.la/m69) para abrir o editor de código e fazer esse exercício! Ao clicar em `Run` o seu código será avaliado. Caso exista algum erro de código, o erro será exibido em vez do resultado do teste.
 
-Para ver o gabarito, siga [este link](https://esta.la/R7P).
+Para ver o gabarito, siga [este link](https://esta.la/Zm2).

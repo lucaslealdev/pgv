@@ -10,7 +10,7 @@ coverY: 198
 **Vantagem:** as estruturas condicionais como um todo permitem que o seu código tome decisões automaticamente, variando as linhas que serão ou não serão executadas.
 {% endhint %}
 
-Você viu como criar funções, e isso já permite reutilizar muito o código. Mas isso ainda não te dá poder de **variar** o que acontece no seu código.
+Você viu no módulo anterior como criar as funções, e isso já permite reutilizar muito o código. Mas isso ainda não te dava poder de **variar** o que acontece no seu código.
 
 Por exemplo, é comum o preço de um alimento variar conforme o tamanho da porção. Se você criar uma função que retorna o preço de um pedido em um carrinho de pipoca, sem estruturas condicionais você poderá variar o preço conforme a quantidade (ao multiplicar), mas não daria pra variar o preço conforme o tamanho.
 
