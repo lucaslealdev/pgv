@@ -32,4 +32,22 @@ const amizade = [
 Perceba que mesmo dentro do _array_ é uma boa prática respeitar a indentação de código.
 {% endhint %}
 
-\*em construção
+O acesso aos elementos do _array_ é feito por índice numérico, e sendo assim você pode utilizar os colchetes para obter os valores armazenados com a sintaxe `variavel[numero]`.
+
+```javascript
+const amizade = [
+    'Lucas',
+    'Fernando',
+    'Maurício',
+    'Luan',
+    'Luana',
+];
+
+console.log(amizade[0]); //Lucas
+console.log(amizade[1]); //Fernando
+```
+
+{% hint style="info" %}
+Siga [este link](https://coolfee.github.io/#%7B%22code%22%3A%22const%20amizade%20%3D%20%5B%5Cn%20%20%20%20'Lucas'%2C%5Cn%20%20%20%20'Fernando'%2C%5Cn%20%20%20%20'Maur%C3%ADcio'%2C%5Cn%20%20%20%20'Luan'%2C%5Cn%20%20%20%20'Luana'%2C%5Cn%5D%3B%5Cn%5Cnconsole.log\(amizade%5B0%5D\)%3B%20%2F%2FLucas%5Cnconsole.log\(amizade%5B1%5D\)%3B%20%2F%2FFernando%22%2C%22tests%22%3A%22%22%7D) para acessar o código acima_._
+{% endhint %}
+
