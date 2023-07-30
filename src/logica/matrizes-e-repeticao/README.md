@@ -8,6 +8,6 @@ coverY: 44
 
 Boas vindas à seção de **Matrizes e repetição** do módulo de **Lógica**!
 
-Agora você irá se aprofundar na lógica computacional, com os _arrays_ (conjuntos), _arrays multidimensionais_ (matrizes) e estruturas de repetição de código.
+Aqui, você terá a oportunidade de aprofundar seus conhecimentos em lógica computacional, explorando os poderosos arrays (conjuntos) e arrays multidimensionais (matrizes). Além disso, aprenderá sobre as estruturas de repetição de código, uma ferramenta fundamental para tornar seu código mais eficiente e dinâmico.
 
-Depois disso você será capaz de fazer o seu código repetir. Depois disso você será capaz de fazer o seu código repetir. Depois disso você será capaz de fazer o seu código repetir. Depois disso você será capaz de fazer o seu código repetir. 😉
+Após dominar esses conceitos, você estará apto a criar código que se repete de forma elegante e funcional. Com essas habilidades em mãos, as possibilidades de desenvolvimento serão ampliadas, permitindo que você crie soluções mais sofisticadas e poderosas. Estamos animados para acompanhá-lo nessa jornada! Prepare-se para um aprendizado incrível e repleto de desafios estimulantes. 😉

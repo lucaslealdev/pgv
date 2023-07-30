@@ -15,4 +15,4 @@ coverY: 0
 **Racional:** uma vez que souber utilizar esses dados, abriremos seu horizonte para novas possibilidades de organização desses dados.
 {% endhint %}
 
-_Estrutura de dados_ é uma matéria de faculdade nos cursos de tecnologia, dada a profundidade do tema. Essas estruturas são os tipos desses dados, e você vai começar aprendendo sobre textos e números.
+_Estrutura de dados_ é uma matéria de faculdade nos cursos de tecnologia, dada a profundidade do tema. Essas estruturas são os tipos desses dados, e você vai começar aprendendo sobre **textos** e **números**.

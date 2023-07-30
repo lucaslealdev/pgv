@@ -10,7 +10,13 @@ coverY: 0
 **Vantagem:** quando você cria uma função que recebe um parâmetro isso permite reutilizá-la em cenários mais diversos, que variam conforme o parâmetro.
 {% endhint %}
 
-As funções também podem receber parâmetros, que são como variáveis! A diferença é que os nomes dos parâmetros são determinados dentro do parênteses da função, e não usam `let`.
+As funções em JavaScript também podem receber parâmetros, que são como variáveis especiais! A grande diferença é que os nomes desses parâmetros são determinados dentro dos parênteses da função, e não usam a palavra-chave "let" para declará-los.
+
+Quando você define uma função, deve colocar parênteses no início da declaração. Dentro desses parênteses, você inclui os nomes dos parâmetros separados por vírgulas. Esses parâmetros funcionam como variáveis que podem ser usadas dentro da função.
+
+Quando você chama a função e passa os valores entre os parênteses, esses valores são atribuídos aos parâmetros na ordem em que são fornecidos. Assim, os parâmetros permitem que a função receba informações externas para trabalhar com elas.
+
+Essa é uma funcionalidade poderosa porque torna as funções mais flexíveis e reutilizáveis. Podemos criar uma função genérica que aceita diferentes valores por meio de parâmetros, o que nos permite executar a mesma lógica em situações diferentes. Compreender como usar e trabalhar com parâmetros é fundamental para tirar o máximo proveito das funções em JavaScript!
 
 {% code lineNumbers="true" %}
 ```javascript

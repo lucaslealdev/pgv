@@ -10,9 +10,9 @@ coverY: -21
 Vantagem: o uso de retorno implícito permite tornar as funções mais curtas, quando cabível
 {% endhint %}
 
-Implícito é aquilo que está lá, mas não precisamos dizer. Dessa forma o retorno implícito é o retorno feito sem colocar o comando `return` propriamente dito.
+Implícito é aquilo que está lá, mas não precisamos dizer. O retorno implícito é o retorno feito sem colocar o comando `return` de forma explícita no código.
 
-Isso pode ser feito simplesmente omitindo as chaves `{}` da abertura da função e colocando diretamente o que você deseja retornar após a seta `=>`
+Isso pode ser feito simplesmente omitindo as chaves `{}` da abertura da função e colocando diretamente o que você deseja retornar após a seta `=>`.
 
 ### Exemplo usando o gabarito anterior:
 

@@ -13,9 +13,11 @@ coverY: 0
 **Vantagem**: a vantagem de você saber como usar funções é poder reutilizar código infinitas vezes, inclusive ao criar novos programas, usando parte do código que você já acumulou durante seu aprendizado. Digitar menos, programar mais.
 {% endhint %}
 
-As funções são pedaços de código, o que lembra muito o processo de uma linha de produção de fábrica. Cada trecho da linha de produção recebe um produto semi-acabado, trabalha nesse produto, e no fim devolve um produto um pouco mais acabado; até que no fim temos o produto finalizado. Nessa analogia, cada trecho da linha de produção é uma função específica.
+As funções são como os diferentes estágios em uma linha de produção de fábrica, onde cada etapa recebe um produto semi-acabado, trabalha nele e, no final, entrega um produto mais refinado. Essa analogia nos ajuda a entender que cada parte da linha de produção representa uma função específica.
 
-O nome _função_ fala exatamente sobre isso! A função deve ter apenas um único objetivo (ou o mais próximo disso possível) e deve permitir reutilização. Em uma linha de produção de carros, o time que coloca os pneus tem apenas um objetivo e pode cumprir esse objetivo para uma infinidade de carros diferentes, permitindo a **reutilização** dos seus aparatos.
+O próprio termo "função" reflete essa ideia! Cada função deve ter um único objetivo bem definido (ou o mais próximo disso possível) e ser projetada para permitir sua reutilização em várias situações. Imagine uma linha de produção de carros: o time responsável por colocar os pneus tem um único objetivo, que pode ser aplicado a uma infinidade de carros diferentes, tornando seus equipamentos facilmente reutilizáveis.
+
+Ao criar funções com um propósito claro e reutilizável, podemos simplificar nossos códigos, tornando-os mais eficientes, organizados e fáceis de manter. Assim, assim como uma linha de produção bem estruturada otimiza a fabricação de produtos, funções bem projetadas aprimoram a criação de soluções na programação. Você irá explorar essa abordagem e aproveitar ao máximo a versatilidade e eficácia das funções em seus projetos!
 
 No JavaScript, para criar funções é preciso uma organização específica de comandos, que é assim:
 

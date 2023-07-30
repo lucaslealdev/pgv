@@ -32,3 +32,4 @@
   * [✅ Exercício 3-1](logica/logica-condicional/exercicio-3-1.md)
 * [🔂 Matrizes e repetição](logica/matrizes-e-repeticao/README.md)
   * [🈁 Tipo conjunto (array)](logica/matrizes-e-repeticao/tipo-conjunto-array.md)
+  * [🔄 Estrutura de repetição for](logica/matrizes-e-repeticao/estrutura-de-repeticao-for.md)

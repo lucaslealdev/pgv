@@ -6,17 +6,21 @@ coverY: -57
 
 # 🈁 Tipo conjunto (array)
 
-O tipo de dado conjunto, chamado de _array_ (do inglês _variedade_), permite armazenar não apenas um dado, mas vários e de tipos diversos. O mais comum é termos agrupamentos de dados do mesmo tipo, mas nada impede de haver um _array_ que possui _strings, numbers_ e _boolean_ tudo na mesma sequência.
+{% hint style="success" %}
+**Vantagem:** o tipo conjunto permite organizar dados de maneira sequencial, algo extremamente poderoso para organizar o código e programar de forma performática economizando recursos de _hardware_.
+{% endhint %}
 
-Esse tipo de dado é organizado sempre em **fila**, um elemento atrás do outro, cada um tendo seu índice que demarca sua ordem. É importante sempre lembrar que esse índice começa no número 0, não no número 1, por isso o primeiro elemento de um _array_ está na posição 0, o segundo na posição 1, e assim por diante.
+O array é um tipo de dado em JavaScript que permite armazenar múltiplos valores, podendo ser de tipos diversos. É como um conjunto de dados organizados em fila, onde cada elemento tem seu índice que marca sua posição na sequência. É importante lembrar que os índices dos arrays começam a partir do número 0, não do número 1, ou seja, o primeiro elemento está na posição 0, o segundo na posição 1, e assim por diante.
 
-A sintaxe de criação de _array_ é utilizando o colchete para receber os elementos, e cada um é separado por vírgula do próximo. Assim, o JavaScript consegue identificar onde começa e termina cada elemento.
+Embora seja comum agrupar dados do mesmo tipo em um array, ele também pode conter uma combinação de strings, numbers e booleans, todos na mesma sequência. A sintaxe para criar um array em JavaScript é simples, utilizando colchetes para delimitar os elementos, e separando cada um deles por vírgulas. Essa forma de representação permite que o JavaScript identifique claramente onde começa e termina cada elemento no array.
+
+Os arrays em JavaScript são bastante versáteis e flexíveis, tornando-se uma estrutura de dados essencial para diversas aplicações. Eles possibilitam o armazenamento e manipulação eficiente de múltiplos valores em uma única variável, facilitando a implementação de algoritmos, iterações e operações que envolvem conjuntos de dados.
 
 ```javascript
 const amizade = ['Lucas', 'Fernando', 'Maria', 'Carlos', 'Estela'];
 ```
 
-Para organizar melhor a lista, o JavaScript permite também que sejam utilizadas quebras de linha **entre os elementos** e incluir uma vírgula após o último, o que facilita a inclusão de mais elementos ali posteriormente já que a vírgula já está colocada:
+Para organizar de forma mais legível e amigável as listas em JavaScript, é possível utilizar quebras de linha entre os elementos e incluir uma vírgula após o último. Essa técnica torna a estrutura do array mais clara e facilita a adição de novos elementos posteriormente, pois a vírgula já está previamente inserida. Dessa maneira, o código se torna mais limpo e permite uma melhor visualização dos dados contidos no array, o que é especialmente útil em arrays com muitos elementos ou em situações em que a legibilidade é fundamental para a manutenção do código:
 
 ```javascript
 const amizade = [
@@ -50,4 +54,3 @@ console.log(amizade[1]); //Fernando
 {% hint style="info" %}
 Siga [este link](https://coolfee.github.io/#%7B%22code%22%3A%22const%20amizade%20%3D%20%5B%5Cn%20%20%20%20'Lucas'%2C%5Cn%20%20%20%20'Fernando'%2C%5Cn%20%20%20%20'Maur%C3%ADcio'%2C%5Cn%20%20%20%20'Luan'%2C%5Cn%20%20%20%20'Luana'%2C%5Cn%5D%3B%5Cn%5Cnconsole.log\(amizade%5B0%5D\)%3B%20%2F%2FLucas%5Cnconsole.log\(amizade%5B1%5D\)%3B%20%2F%2FFernando%22%2C%22tests%22%3A%22%22%7D) para acessar o código acima_._
 {% endhint %}
-

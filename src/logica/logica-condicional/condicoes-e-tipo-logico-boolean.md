@@ -6,11 +6,17 @@ coverY: 57
 
 # 🙆♀ Condições e tipo lógico (boolean)
 
-A condição é um elemento importantíssimo da estrutura condicional _if_, pois é o que determina qual caminho o código vai seguir (o caminho do _if_ ou o caminho do _else_).
+{% hint style="success" %}
+**Racional**: utilizando as condições é que você pode fazer com que o fluxo da estrutura condicional seja útil.
+{% endhint %}
 
-A condição resulta em um tipo de dados que ainda não vimos: _boolean_ ou **booleano**. É um tipo que pode ter apenas um desses dois dados: **verdadeiro** ou **falso**. Ou a condição é _true;_ ou ela é _false_.
+A condição é um conceito fundamental na estrutura condicional "if", pois determina o caminho que o código seguirá: o caminho do "if" ou o caminho do "else".
 
-Para criar condições você usa os operadores de comparação, que são **igual**, **maior que**, **menor que**, dentre outros, e todos no fim geram esse valor verdadeiro ou falso.
+Para entender melhor, vamos conhecer um novo tipo de dado chamado boolean ou booleano. Esse tipo de dado possui apenas dois valores possíveis: verdadeiro ou falso. Ou seja, a condição pode ser "true" (verdadeira) ou "false" (falsa).
+
+Para criar essas condições, utilizamos os operadores de comparação, como igual, maior que, menor que, entre outros. Esses operadores comparam valores e, como resultado, geram o valor booleano verdadeiro ou falso, indicando se a condição é atendida ou não.
+
+Resumindo, o "if" é uma forma de fazer o código tomar decisões com base em condições que podem ser verdadeiras ou falsas, e essas condições são criadas usando operadores de comparação. Com essa compreensão, você estará preparado para usar a estrutura condicional "if" de forma eficiente em seus programas.
 
 Abaixo a lista de operadores de comparação retirada da [documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions\_and\_Operators#operador\_comparacao) do JS.
 
