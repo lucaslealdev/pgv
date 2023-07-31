@@ -60,4 +60,16 @@ Esse _loop_ continuará até que a condição `indice < amigos.length` seja fals
 
 Assim, usando o `for` em conjunto com um _array_ de nomes de amigos, é possível mostrar o nome de cada pessoa de forma simples e eficiente! 🎉
 
-A estrutura de repetição `for` é incrível, pois permite repetir qualquer ação quantas vezes for preciso; seja incluir elementos no _array_ ou removê-los.
+A estrutura de repetição `for` é incrível, pois permite repetir qualquer ação quantas vezes for preciso; como incluir elementos no _array_ ou removê-los, fazer operações para cada elemento, ou o que a sua imaginação permitir.
+
+```javascript
+const numeros = [3, 4, 5];
+
+for (let indice = 0; indice < numeros.length; indice += 1) {
+  console.log(`${numeros[indice]} vezes 2 é ${numeros[indice] * 2}`);
+}
+```
+
+{% hint style="info" %}
+Siga [este link](https://coolfee.github.io/#%7B%22code%22%3A%22const%20numeros%20%3D%20%5B3%2C%204%2C%205%5D%3B%5Cn%5Cnfor%20\(let%20indice%20%3D%200%3B%20indice%20%3C%20numeros.length%3B%20indice%20%2B%3D%201\)%20%7B%5Cn%20%20console.log\(%60%24%7Bnumeros%5Bindice%5D%7D%20vezes%202%20%C3%A9%20%24%7Bnumeros%5Bindice%5D%20\*%202%7D%60\)%3B%5Cn%7D%22%2C%22tests%22%3A%22%22%7D) para experimentar o código acima.
+{% endhint %}
