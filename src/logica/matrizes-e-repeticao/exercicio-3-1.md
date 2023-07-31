@@ -1,6 +1,6 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1524803504179-6d7ae4d283f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxyZWN0YW5nbGV8ZW58MHx8fHwxNjg5ODY1NDg2fDA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1518133835878-5a93cc3f89e5?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxtdWx0aXBsaWNhdGlvbnxlbnwwfHx8fDE2OTA4Mzc3MjJ8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
@@ -22,4 +22,4 @@ Se você não fizer os exercícios, será impossível aprender JavaScript.
 
 Clique [aqui](https://esta.la/4ex) para abrir o editor de código e fazer esse exercício! Ao clicar em `Run` o seu código será avaliado. Caso exista algum erro de código, o erro será exibido em vez do resultado do teste.
 
-Para ver o gabarito, siga [este link](https://esta.la/14G).
+Para ver o gabarito, siga [este link](https://esta.la/qgR).

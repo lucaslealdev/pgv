@@ -1,7 +1,7 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1588348442528-85c6fa3b0440?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxvcmRlcnxlbnwwfHx8fDE2ODk5NDg1MDF8MA&ixlib=rb-4.0.3&q=85
-coverY: -57
+  https://images.unsplash.com/photo-1506521781263-d8422e82f27a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxwYXJraW5nfGVufDB8fHx8MTY5MDgzODc3M3ww&ixlib=rb-4.0.3&q=85
+coverY: -146
 ---
 
 # 🈁 Manipulando arrays
