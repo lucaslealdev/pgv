@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bem-vindo!](README.md)
+* [Boas-vindas!](README.md)
 
 ## ⭐ Fundamentos
 
@@ -32,4 +32,6 @@
   * [✅ Exercício 3-1](logica/logica-condicional/exercicio-3-1.md)
 * [🔂 Matrizes e repetição](logica/matrizes-e-repeticao/README.md)
   * [🈁 Tipo conjunto (array)](logica/matrizes-e-repeticao/tipo-conjunto-array.md)
+  * [🈁 Manipulando arrays](logica/matrizes-e-repeticao/manipulando-arrays.md)
   * [🔄 Estrutura de repetição for](logica/matrizes-e-repeticao/estrutura-de-repeticao-for.md)
+  * [✅ Exercício 3-1](logica/matrizes-e-repeticao/exercicio-3-1.md)

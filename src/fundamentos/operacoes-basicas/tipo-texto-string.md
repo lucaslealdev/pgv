@@ -23,9 +23,9 @@ Dominar o uso de strings e a concatenação é uma habilidade fundamental para t
 ```javascript
 console.log("Essa é uma string criada com aspas");
 console.log("Essa é uma string criada com apóstrofos");
-console.log("Olá " + 'João' + '! Seja bem-vindo!');
+console.log("Olá " + 'João' + '! Boas-vindas!');
 ```
 
 {% hint style="info" %}
-Siga [este link](https://coolfee.github.io/#\{%22autorun%22:%221%22,%22code%22:%22console.log\(\\%22Essa%20%C3%A9%20uma%20string%20criada%20com%20aspas\\%22\);\nconsole.log\(\\%22Essa%20%C3%A9%20uma%20string%20criada%20com%20ap%C3%B3strofos\\%22\);\nconsole.log\(\\%22Ol%C3%A1%20\\%22%20+%20'Jo%C3%A3o'%20+%20'!%20Seja%20bem-vindo!'\);%22,%22tests%22:%22;%22}) para acessar o código acima_._
+Siga [este link](https://coolfee.github.io/#%7B%22autorun%22%3A%221%22%2C%22code%22%3A%22console.log\(%5C%22Essa%20%C3%A9%20uma%20string%20criada%20com%20aspas%5C%22\)%3B%5Cnconsole.log\(%5C%22Essa%20%C3%A9%20uma%20string%20criada%20com%20ap%C3%B3strofos%5C%22\)%3B%5Cnconsole.log\(%5C%22Ol%C3%A1%20%5C%22%20%2B%20'Jo%C3%A3o'%20%2B%20'!%20Boas-vindas!'\)%3B%22%2C%22tests%22%3A%22%3B%22%7D) para acessar o código acima_._
 {% endhint %}

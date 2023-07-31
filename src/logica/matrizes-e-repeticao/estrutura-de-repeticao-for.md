@@ -59,3 +59,5 @@ Veja como cada parte dessa sintaxe funciona:
 Esse _loop_ continuará até que a condição `indice < amigos.length` seja falsa, ou seja, quando chegar ao final do _array_.
 
 Assim, usando o `for` em conjunto com um _array_ de nomes de amigos, é possível mostrar o nome de cada pessoa de forma simples e eficiente! 🎉
+
+A estrutura de repetição `for` é incrível, pois permite repetir qualquer ação quantas vezes for preciso; seja incluir elementos no _array_ ou removê-los.
