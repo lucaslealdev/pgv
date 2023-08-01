@@ -35,3 +35,4 @@
   * [🈁 Manipulando arrays](logica/4-matrizes-e-repeticao/manipulando-arrays.md)
   * [🔄 Estrutura de repetição for](logica/4-matrizes-e-repeticao/estrutura-de-repeticao-for.md)
   * [✅ Exercício 4-1](logica/4-matrizes-e-repeticao/exercicio-4-1.md)
+  * [✅ Exercício 4-2](logica/4-matrizes-e-repeticao/exercicio-4-2.md)
