@@ -60,6 +60,12 @@ Esse _loop_ continuará até que a condição `indice < amigos.length` seja fals
 
 Assim, usando o `for` em conjunto com um _array_ de nomes de amigos, é possível mostrar o nome de cada pessoa de forma simples e eficiente! 🎉
 
+
+
+{% embed url="https://www.youtube.com/watch?v=txQIkXeOuxA" %}
+Vídeo explicando o funcionamento do `for`
+{% endembed %}
+
 A estrutura de repetição `for` é incrível, pois permite repetir qualquer ação quantas vezes for preciso; como incluir elementos no _array_ ou removê-los, fazer operações para cada elemento, ou o que a sua imaginação permitir.
 
 ```javascript
