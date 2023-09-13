@@ -14,7 +14,7 @@ A _string_, que significa "linha" em inglês, é um tipo de dado que armazena te
 
 No JavaScript, as strings são criadas entre aspas duplas `""` ou apóstrofos simples `''`. Ambos têm o mesmo efeito prático na criação de strings. No entanto, é comum que times de programadores estabeleçam um padrão para usar um ou outro, visando a consistência e a qualidade do código.
 
-As strings podem ser combinadas, o que significa juntar várias delas em sequência para criar uma nova string com duas ou mais partes. Para fazer isso, se utiliza o caractere `+`.
+As strings podem ser combinadas, o que significa juntar várias delas em sequência para criar uma nova string com duas ou mais partes. Para fazer isso, você irá utilizar o caractere `+` e isso se chama concatenação.
 
 Essa capacidade de concatenar strings é muito útil quando você precisa unir dados inseridos pelo usuário com informações do sistema. Por exemplo, criar uma mensagem de boas-vindas personalizada que inclui o nome do usuário é um ótimo exemplo de como usar a concatenação.
 
